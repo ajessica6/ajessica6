@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ajessica6/ajessica6/raw/main/banner-jessica.png" alt="banner-jessica.png" width="100%" />
+  <img src="https://github.com/ajessica6/ajessica6/raw/main/banner-jessica.png" alt="banner-jessica.png.png" width="100%" />
 </p>
 
 ###  Oi, eu sou a Jéssica! 
