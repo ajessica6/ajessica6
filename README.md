@@ -2,7 +2,7 @@
   <img src="banner-jessica.png" alt="Banner de Jéssica Nascimento" width="100%" />
 </p>
 
-### 👩‍🔬 Oi, eu sou a Jéssica! 
+###  Oi, eu sou a Jéssica! 
 
 Sou estudante de **Licenciatura em Ciências Biológicas** na UEMASUL 🌱, com interesse especial em tecnologias aplicadas à biologia, como **machine learning**, **análise de dados** e **visualização científica**.
 
