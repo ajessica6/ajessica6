@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="banner-jessica.png" alt="Banner de Jéssica Nascimento" width="100%" />
+  <img src="https://github.com/ajessica6/ajessica6/raw/main/banner-jessica.png" alt="Banner de Jéssica Nascimento" width="100%" />
 </p>
 
-### Oi, eu sou a Jéssica! 
+###  Oi, eu sou a Jéssica! 
 
 Sou estudante de **Licenciatura em Ciências Biológicas** na UEMASUL 🌱, com interesse especial em tecnologias aplicadas à biologia, como **machine learning**, **análise de dados** e **visualização científica**.
 
@@ -49,6 +49,9 @@ Currently working on a taxonomy project using supervised machine learning and mo
 ---
 
 > _"Educação, ciência e tecnologia como caminhos para a transformação social."_ 💡
+
+
+
 
 
 
