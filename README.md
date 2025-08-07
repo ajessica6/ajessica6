@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Orange-FF7F00?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
-  <img src="Imagej2" />
+  <img src="Imagej2.png" />
 </p>
 
 ---
