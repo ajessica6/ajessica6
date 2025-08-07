@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 VR 
+### 🌿 VR 
 
 <p align="center">
   <img src="vr.jpeg" />
