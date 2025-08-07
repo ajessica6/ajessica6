@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/9gH1KzZq3r8AAAAC/leaf-plant.gif" width="200" alt="leaf-gif" />
+  <img src="https://pin.it/7KFHVetEz />
 </p>
 
 <p align="center">
