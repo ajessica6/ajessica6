@@ -2,7 +2,7 @@
   <img src="https://github.com/ajessica6/ajessica6/raw/main/banner-jessica.png.png" alt="banner-jessica.png.png" width="100%" />
 </p>
 
-### Hello world, I'm Jéssica! 👋
+### Hi, I'm Jéssica! 👋
 
 I'm an undergraduate student in **Biological Sciences** at UEMASUL 🌱, with a strong interest in technologies applied to biology, such as **machine learning**, **data analysis**, and **scientific visualization**.
 
