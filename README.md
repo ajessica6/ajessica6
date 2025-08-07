@@ -2,22 +2,15 @@
   <img src="https://github.com/ajessica6/ajessica6/raw/main/banner-jessica.png.png" alt="banner-jessica.png.png" width="100%" />
 </p>
 
-###  Oi, eu sou a Jéssica! 
+### Hello world, I'm Jéssica! 👋
 
-Sou estudante de **Licenciatura em Ciências Biológicas** na UEMASUL 🌱, com interesse especial em tecnologias aplicadas à biologia, como **machine learning**, **análise de dados** e **visualização científica**.
+I'm an undergraduate student in **Biological Sciences** at UEMASUL 🌱, with a strong interest in technologies applied to biology, such as **machine learning**, **data analysis**, and **scientific visualization**.
 
-Atualmente desenvolvo um projeto de **identificação taxonômica de angiospermas usando aprendizado de máquina**, com uso das linguagens **R** e **Python**. Também tenho experiência com ferramentas como **ImageJ2**, **Orange Data Mining**, **Azure Machine Learning** e **RStudio**.
-
----
-
-### 🌎 About me (EN)
-
-I'm a Biological Sciences undergraduate passionate about applying data science and machine learning in biological research.  
-Currently working on a taxonomy project using supervised machine learning and morphometric analysis of angiosperm leaves, using **R** and **Python**.
+Currently, I'm developing a project on the **taxonomic identification of angiosperms using machine learning**, working with **R** and **Python**. I also have experience with tools like **ImageJ2**, **Orange Data Mining**, **Azure Machine Learning**, and **RStudio**.
 
 ---
 
-### 🚀 Tecnologias & Linguagens que uso
+### 🚀 Tools & Languages I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
@@ -27,12 +20,12 @@ Currently working on a taxonomy project using supervised machine learning and mo
 
 ---
 
-### 📌 Destaques
+### 📌 Featured Projects
 
-- 🧬 [Banco de dados de folhas para taxonomia com ML](https://github.com/ajessica6/banco-dados-folhas-ml)
-- 📊 [Análises em R para classificação de espécies](https://github.com/ajessica6/analises-taxonomicas-r)
+- 🧬 [Leaf Morphometric Database for Taxonomy with ML](https://github.com/ajessica6/banco-dados-folhas-ml)  
+- 📊 [R Scripts for Species Classification](https://github.com/ajessica6/analises-taxonomicas-r)
 
-*(Links serão atualizados conforme os repositórios forem criados)*
+*More repositories coming soon.*
 
 ---
 
@@ -42,11 +35,11 @@ Currently working on a taxonomy project using supervised machine learning and mo
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Connect with Me
 
-- 📄 [Currículo Lattes](http://lattes.cnpq.br/3201860651662082)
+- 📄 [Lattes Academic CV (Portuguese)](http://lattes.cnpq.br/3201860651662082)  
 - 📧 jesnascimento2016@hotmail.com
 
 ---
 
-> _"Educação, ciência e tecnologia como caminhos para a transformação social."_ 💡
+> _"Education, science, and technology as paths to social transformation."_ 💡
