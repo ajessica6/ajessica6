@@ -36,11 +36,10 @@
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Orange-FF7F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="R.png" />
+  <img src="orange.png" />
+  <img src="java.png" />
+  <img src="python.png" />
   <img src="imagej2.png" />
 </p>
 
