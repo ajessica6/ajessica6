@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hp3dmEfbQy9f6/giphy.gif" width="300" alt="ml-animation" />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" alt="ml-animation" />
 </p>
 
 <h2 align="center">Hi there, I'm Jéssica! 👋</h2>
