@@ -52,13 +52,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 VR 
 
 <p align="center">
   <img src="vr.jpeg" />
   <br />
-  <img src="vr.jpeg" />
-</p>
+  </p>
 
 ---
 
