@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ajessica6/ajessica6/raw/main/banner-jessica.png" alt="banner-jessica" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-animation" />
 </p>
 
 <h2 align="center">Hi there, I'm Jéssica! 👋</h2>
