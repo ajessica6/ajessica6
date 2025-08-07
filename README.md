@@ -39,7 +39,7 @@
   <img src="R.png" />
   <img src="orange.png" />
   <img src="java.png" />
-  <img src="python.png" />
+  <img src="python.jpeg" />
   <img src="imagej2.png" />
 </p>
 
@@ -55,9 +55,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajessica6&layout=compact&theme=dracula" />
+  <img src="vr.jpeg" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajessica6&theme=dracula" />
+  <img src="vr.jpeg" />
 </p>
 
 ---
