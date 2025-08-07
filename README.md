@@ -73,5 +73,5 @@
 </p>
 
 <p align="center">
-  <img src = "https://pin.it/7KFHVetEz>🌿 “Let the data bloom.”</strong>
+  <strong>🌿 “Let the data bloom.”</strong>
 </p>
