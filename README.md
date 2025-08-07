@@ -6,7 +6,7 @@
 
 Sou estudante de **Licenciatura em Ciências Biológicas** na UEMASUL 🌱, com interesse especial em tecnologias aplicadas à biologia, como **machine learning**, **análise de dados** e **visualização científica**.
 
-Atualmente desenvolvo um projeto de **identificação taxonômica de angiospermas usando aprendizado de máquina**, com uso das linguagens **R** e **Python**. Também tenho experiência com ferramentas como **ImageJ2**, **Orange Data Mining** e **RStudio**.
+Atualmente desenvolvo um projeto de **identificação taxonômica de angiospermas usando aprendizado de máquina**, com uso das linguagens **R** e **Python**. Também tenho experiência com ferramentas como **ImageJ2**, **Orange Data Mining**, **Azure Machine Learning** e **RStudio**.
 
 ---
 
@@ -23,6 +23,7 @@ Currently working on a taxonomy project using supervised machine learning and mo
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 ![ImageJ](https://img.shields.io/badge/ImageJ2-blue?style=for-the-badge&logoColor=white)  
 ![Orange](https://img.shields.io/badge/Orange-FF7F00?style=for-the-badge&logoColor=white)  
+![Azure Machine Learning](https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
@@ -49,11 +50,3 @@ Currently working on a taxonomy project using supervised machine learning and mo
 ---
 
 > _"Educação, ciência e tecnologia como caminhos para a transformação social."_ 💡
-
-
-
-
-
-
-
-
