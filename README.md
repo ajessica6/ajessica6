@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/x0VZYuQIKtEAAAAC/robot-typing.gif" width="250" alt="robot-typing" />
+  <img src="roboct-enginner" />
 </p>
 
 <h2 align="center">Hi, I'm Jéssica! 👋</h2>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=66DD88&center=true&vCenter=true&width=435&lines=Science+meets+Code.;Machine+Learning+%2B+Botany+%3D+💚" alt="Typing SVG" />
+  <img src=robotics.webp/>
 </p>
 
 ---
