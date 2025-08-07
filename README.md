@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="robocts-engineer.png" />
+  <img src="robotcs-engineer.jpg"/>
 </p>
 
 <h2 align="center">Hi, I'm Jéssica! 👋</h2>
