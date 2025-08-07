@@ -1,59 +1,78 @@
 <p align="center">
-  <img src="https://media.tenor.com/x0VZYuQIKtEAAAAC/robot-typing.gif" width="300" alt="female-robot-coding" />
+  <img src="https://media.tenor.com/x0VZYuQIKtEAAAAC/robot-typing.gif" width="250" alt="robot-typing" />
 </p>
 
 <h2 align="center">Hi, I'm Jéssica! 👋</h2>
 
 <p align="center">
-  Undergraduate student in <strong>Biological Sciences</strong> at <em>UEMASUL</em> 🌱 <br>
-  Passionate about technology, data, and science working together to solve real-world problems.  
+  Undergraduate student in <strong>Biological Sciences</strong> at <em>UEMASUL</em> 🌱<br>
+  Passionate about technology, data, and science working together to solve real-world problems.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=66DD88&center=true&vCenter=true&width=435&lines=Science+meets+Code.;Machine+Learning+%2B+Botany+%3D+💚" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 About Me
+### 🔬 What I'm Working On
 
-🎓 Working on the **taxonomic identification of angiosperms using machine learning**, with **R**, **Python**, **Orange**, and **ImageJ2**.
+- 🌿 Taxonomic identification of angiosperms using **machine learning**
+- 🔢 Creating a **leaf morphometric database** for supervised models
+- 🤖 Combining **ImageJ2 + Orange + R + Python** for data analysis in biology
 
-🔬 Interested in:
+---
+
+### 🧠 Interests
+
 - Machine Learning in Biological Data 🧠🌿  
 - Scientific Visualization 📊  
 - Data Analysis with R & Python 🐍  
 - AI in Biosciences 🤖  
+- Biological Image Processing 🔬  
 
 ---
 
 ### 🛠️ Tools & Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![ImageJ](https://img.shields.io/badge/ImageJ2-3F51B5?style=for-the-badge&logo=ImageJ&logoColor=white)
-![Orange](https://img.shields.io/badge/Orange-FF7F00?style=for-the-badge&logoColor=white)
-![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Orange-FF7F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+</p>
 
 ---
 
-### 📌 Featured Projects
+### 📁 Featured Projects
 
 🔹 [**Leaf Morphometric Database for ML-based Taxonomy**](https://github.com/ajessica6/banco-dados-folhas-ml)  
 🔹 [**R Scripts for Species Classification**](https://github.com/ajessica6/analises-taxonomicas-r)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajessica6&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajessica6&layout=compact&theme=dracula" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajessica6&theme=dracula" />
 </p>
 
 ---
 
-### 🌐 Contact
+### 📫 Let's Connect
 
-- 📄 [Lattes CV (Portuguese)](http://lattes.cnpq.br/3201860651662082)  
-- 📧 jesnascimento2016@hotmail.com
+- 📧 jesnascimento2016@hotmail.com  
+- 🌱 Feel free to reach out if you're into **AI for Science**, **plant data**, or **open research collaboration**!
 
 ---
 
-<p align="center"><em>"Education, science, and technology as paths to social transformation."</em> 💡</p>
+<p align="center">
+  <img src="https://media.tenor.com/9gH1KzZq3r8AAAAC/leaf-plant.gif" width="200" alt="leaf-gif" />
+</p>
+
+<p align="center">
+  <strong>🌿 “Let the data bloom.”</strong>
+</p>
